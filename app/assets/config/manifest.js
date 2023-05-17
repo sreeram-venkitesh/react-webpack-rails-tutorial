@@ -1,3 +1,3 @@
-// eslint-disable-next-line no-empty,no-lone-blocks
-{
-}
+//= link_tree ../images
+//= link_directory ../stylesheets .css
+//= link_tree ../../javascript .js
